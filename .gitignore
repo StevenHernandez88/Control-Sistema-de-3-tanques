@@ -1,0 +1,11 @@
+# Simulink/Matlab generated files
+slprj/
+sccprj/
+*.mex*
+*.mdl.r*
+*.asv
+*.autosave
+*.mat
+*.mexa64
+*.mexw64
+*.mexmaci64
