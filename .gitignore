@@ -1,6 +1,7 @@
 # Simulink/Matlab generated files
 slprj/
 sccprj/
+*.slxc
 *.mex*
 *.mdl.r*
 *.asv
